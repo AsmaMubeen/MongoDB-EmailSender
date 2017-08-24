@@ -1,9 +1,9 @@
-# Mongodb-EmailSender
+# MongoDB-EmailSender
 Complete code to send automatic mails using MongoDB,html file,Smtp
 
 This is a console app. (a back-end service which runs on demand)
 
-There are two collections in mongo db
+There are two collections in Mongo DB
 
 Merchants:
 Id
