@@ -1,5 +1,5 @@
-# MongoDB-EmailSender
-Complete code to send automatic mails using MongoDB,html file,Smtp
+# Automated-EmailSender
+Complete code to send automatic mails using MongoDB,HTML file,Smtp
 
 This is a console app. (a back-end service which runs on demand)
 
